@@ -111,8 +111,6 @@ LANGUAGE_CODE = "en-us"
 TIME_ZONE = "UTC"
 
 USE_I18N = True
-DATE_INPUT_FORMATS = ['%Y-%m-%d %H:%M:%S']
-es_formats.DATETIME_FORMAT = "Y M d H:i:s"
 USE_TZ = True
 
 
